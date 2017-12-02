@@ -62,10 +62,6 @@ namespace TwitchChatBot
         private void Form1_Load(object sender, EventArgs e)
         {
             #region TwitchBotStuff
-            //We can't put Connect(); here because Form1.Load is only called once
-            //When the application initally starts.
-            //"But we only need to connect once?" Yes but what if we get disconnected somehow?
-            //It's better to leave it as its own function in case we need it.
             if (tcpClient.Connected)
             {
                 //If we're connected to chat, Initialize the streams.
