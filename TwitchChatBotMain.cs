@@ -39,7 +39,7 @@ namespace TwitchChatBot
 
         //uname is short for Username, I'm lazy.
         string uname = "robbiew_yt", cName = "robbiew_yt",
-            pwd = "oauth:rpxjvmttul6gjuqzwbncvy3l1soltj", chatInfo; //Client Info
+            pwd = "oauth:", chatInfo; //Client Info
 
         string senderr; //Gets set to senders user name
 
