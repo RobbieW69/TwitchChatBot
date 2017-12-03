@@ -39,7 +39,7 @@ namespace TwitchChatBot
 
         //uname is short for Username, I'm lazy.
         string uname = "robbiew_yt", cName = "robbiew_yt",
-            pwd = "oauth:rpxjvmttul6gjuqzwbncvy3l1soltj", chatInfo; //Client Info
+            pwd = "oauth:", chatInfo; //Client Info
 
         string[] cmds = {"Use !help or !cmds or !commands to get a list of all the commands available.\n",
         "!sens\n", "!shutdown\n"}; //Dunno if I'll keep this or not yet, we'll see, might be easier with List?
