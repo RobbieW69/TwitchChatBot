@@ -319,7 +319,7 @@ namespace TwitchChatBot
                     {
                         SendMessage($"{botChatBox.Text}");
                         botChatBox.Text = string.Empty;//Clears the text
-                        e.SuppressKeyPress = true; //NO MORE STUPID FUCKING DING SOUND
+                        e.SuppressKeyPress = true; //NO MORE STUPID DING SOUND
                     }
                     else if (botChatBox.Text.StartsWith("!"))
                     {
