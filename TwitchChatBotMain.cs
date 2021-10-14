@@ -19,7 +19,7 @@ namespace TwitchChatBot
     {
         /// <summary>
         /// Okay, list of shit to do:
-        /// 1.Parse the vote shit properly and act accordingly
+        /// 1.Parse the votes properly and act accordingly
         /// 2.Put the pwd in a json or something
         /// 3.Make a scroll wheel for client
         /// 4.Send a message every 10 minutes
@@ -28,9 +28,8 @@ namespace TwitchChatBot
         /// 7.See if there is a way to log a chat side ban
         /// 8.Find all of the TwitchCmds ex:swriter.WriteLine($"JOIN #{cName}"); "JOIN" %
         /// 9.Periodically host different streamers, every 30 minutes.
-        /// 10.Add ALL commands to bot side. ALLLLL.
+        /// 10.Add ALL commands to bot side.
         /// 11.Add other stuff for cmds i.e. Hardware cmds
-        /// Git Gud.
         /// </summary>
 
         TcpClient tcpClient; //New Transmission Control Protocol instance.
