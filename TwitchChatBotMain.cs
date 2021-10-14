@@ -18,7 +18,7 @@ namespace TwitchChatBot
     public partial class Form1 : Form
     {
         /// <summary>
-        /// Okay, list of shit to do:
+        /// Okay, list of stuff to do:
         /// 1.Parse the votes properly and act accordingly
         /// 2.Put the pwd in a json or something
         /// 3.Make a scroll wheel for client
