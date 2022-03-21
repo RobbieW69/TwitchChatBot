@@ -1,5 +1,4 @@
-//A big thankyou goes out to HardlyDifficult
-//Go watch all of his youtube videos @https://www.youtube.com/channel/UC3bHnBF2Q-u-1NEYG0Xwgeg
+//A big thankyou goes out to HardlyDifficult for some help!
 //Signing off, RobbieW.
 using System;
 using System.Collections.Generic;
