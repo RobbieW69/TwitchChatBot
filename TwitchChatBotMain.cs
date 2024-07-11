@@ -23,7 +23,7 @@ namespace TwitchChatBot
         /// 3.Make a scroll wheel for client
         /// 4.Send a message every 10 minutes
         /// 5.Remember timeout 'default=600, max=1209600'
-        /// 6.I HAVE AN IDEAGHJFYJTRDR6YD6RYD5(users)
+        /// 6.I have an idea involving configuration (users)
         /// 7.See if there is a way to log a chat side ban
         /// 8.Find all of the TwitchCmds ex:swriter.WriteLine($"JOIN #{cName}"); "JOIN" %
         /// 9.Periodically host different streamers, every 30 minutes.
